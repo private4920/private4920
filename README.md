@@ -103,9 +103,12 @@ An IoT-based air quality monitoring platform built during high school to address
 
 <div align="center">
 
-![Gabriel’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=private4920&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=private4920&theme=city_lights)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=private4920&layout=compact&theme=dark&hide_border=true)
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=private4920&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Gabriel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=private4920&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</div>
 
 </div>
 
